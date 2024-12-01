@@ -1,11 +1,3 @@
-# MusiCal
-
-### What's up, team! 🎶
-
-Welcome to the MusiCal project! Here's a quick guide to help you collaborate smoothly with the team. Follow the steps below to ensure everyone is on the same page.
-
----
-
 ## Branches
 
 We have **4 branches** where you can contribute to different parts of the project:
